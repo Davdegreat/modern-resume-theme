@@ -1,10 +1,10 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: Davdegreat/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
+name: David Dilanchian
+title: My CV
 email: Your email (optional)
 phone: Your phone number (optional)
 website: Your website (eg. https://google.com)(optional)
@@ -51,7 +51,7 @@ more_content: | # this will include new lines to allow paragraphs
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
